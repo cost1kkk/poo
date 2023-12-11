@@ -1,4 +1,4 @@
-==Abstract Stack Class (Stack):==
+#Abstract Stack Class (Stack):
 
 This class defines the basic operations that any stack should support: push, pop, peek, is_empty, and size.
 ListStack Implementation (ListStack):
@@ -14,7 +14,7 @@ is_empty: Checks if the list is empty.
 size: Returns the number of elements in the list.
 
 
-LinkedStack Implementation (LinkedStack):
+#LinkedStack Implementation (LinkedStack):
 
 push: Adds a new element to the top of the stack (linked list).
 
@@ -27,7 +27,7 @@ is_empty: Checks if the stack is empty.
 size: Returns the number of elements in the stack.
 
 
-DynamicArrayStack Implementation (DynamicArrayStack):
+#DynamicArrayStack Implementation (DynamicArrayStack):
 
 
 push: Adds an element to the array, and if the array is full, it doubles its capacity.
