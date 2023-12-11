@@ -100,7 +100,6 @@ class FolderMonitor:
             print(filename)
 
 if __name__ == "__main__":
-    # Updated folder path
     folder_path = "C:\\Users\\User\\Desktop\\lab2"
 
     # Create an instance of FolderMonitor
