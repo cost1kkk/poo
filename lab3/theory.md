@@ -4,11 +4,16 @@ This class defines the basic operations that any stack should support: push, pop
 ListStack Implementation (ListStack):
 
 This implementation uses a Python list (self.elements) to store elements.
+
 push: Appends an element to the end of the list.
 pop: Removes and returns the last element from the list.
+
 peek: Returns the last element without removing it.
+
 is_empty: Checks if the list is empty.
+
 size: Returns the number of elements in the list.
+
 LinkedStack Implementation (LinkedStack):
 
 This implementation uses a linked list to store elements.
