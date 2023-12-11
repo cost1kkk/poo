@@ -1,4 +1,4 @@
-<Abstract Stack Class (Stack):>
+==Abstract Stack Class (Stack):==
 
 This class defines the basic operations that any stack should support: push, pop, peek, is_empty, and size.
 ListStack Implementation (ListStack):
